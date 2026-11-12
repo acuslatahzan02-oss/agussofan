@@ -113,8 +113,8 @@ Aset desain berada di `assets/fonts` (Poppins) dan `assets/icon` (ikon aplikasi)
 ### Langkah
 
 ```bash
-git clone <url-repo-ini>
-cd nusapay
+git clone https://github.com/acuslatahzan02-oss/agussofan.git
+cd agussofan
 flutter pub get
 flutter run
 ```
