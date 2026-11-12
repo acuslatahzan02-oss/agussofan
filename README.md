@@ -14,13 +14,27 @@
 
 ## Tangkapan layar
 
-| Beranda | Transfer | Kartu |
-| :---: | :---: | :---: |
-| <img src="docs/screenshots/01-home.png" width="230" alt="Beranda NusaPay" /> | <img src="docs/screenshots/02-transfer.png" width="230" alt="Form transfer NusaPay" /> | <img src="docs/screenshots/03-kartu.png" width="230" alt="Tab kartu NusaPay" /> |
+Klik gambar untuk membuka file asli beresolusi penuh.
 
-| Insight | Profil |
-| :---: | :---: |
-| <img src="docs/screenshots/04-insight.png" width="230" alt="Insight pengeluaran NusaPay" /> | <img src="docs/screenshots/05-profil.png" width="230" alt="Profil pengguna NusaPay" /> |
+### Beranda
+
+[<img src="docs/screenshots/01-home.png" width="480" alt="Beranda NusaPay" />](docs/screenshots/01-home.png)
+
+### Transfer & Top Up
+
+[<img src="docs/screenshots/02-transfer.png" width="480" alt="Form transfer NusaPay" />](docs/screenshots/02-transfer.png)
+
+### Kartu
+
+[<img src="docs/screenshots/03-kartu.png" width="480" alt="Tab kartu NusaPay" />](docs/screenshots/03-kartu.png)
+
+### Insight
+
+[<img src="docs/screenshots/04-insight.png" width="480" alt="Insight pengeluaran NusaPay" />](docs/screenshots/04-insight.png)
+
+### Profil
+
+[<img src="docs/screenshots/05-profil.png" width="480" alt="Profil pengguna NusaPay" />](docs/screenshots/05-profil.png)
 
 ---
 
